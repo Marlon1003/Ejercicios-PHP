@@ -44,7 +44,7 @@ echo " <br>";
 
 // 4) Calcular e impimir la circunferencia de un circulo.
 
-$circulo = 2 * 3.14 * 5;
+$circulo = 2 * M_PI * 5;
 echo "La circunferencia del circulo es: $circulo";
 echo " <br>";
 
